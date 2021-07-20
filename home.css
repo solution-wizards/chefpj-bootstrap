@@ -1,6 +1,16 @@
 @charset "utf-8";
 /* CSS Document */
 
+* {align-content: center}
+
+
+
+body{
+	text-align: center;
+	background-image: url("https://i.pinimg.com/originals/f6/20/a1/f620a179ca1acfd15a0754701677fb58.jpg") ;
+}
+
+
 .skill-box {
 	display: flex;
 	align-content: center;
